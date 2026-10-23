@@ -2,7 +2,7 @@ export const profile = {
   name: "Karishma Pal",
   role: "Computer Engineering student",
   intro:
-    "IEEE-published engineering student who trains and ships machine learning models. My Marathi news sentiment model reached 83.18% accuracy, and I have completed two internships in data science and cyber security.",
+    "I turn ideas into working projects, from a sentiment model for Marathi news headlines to a book recommender you can run in Docker.",
   location: "Mumbai, India",
   email: "Karishmapal1104@gmail.com",
   phone: "8097103937",
@@ -72,13 +72,6 @@ export const highlights = [
   { text: "Certified in MERN Stack Development by EDBA Academy (2024)" },
   { text: "Certified in Cyber Security by VCL Academy (2022)" },
 ];
-
-// export const stats = [
-//   { value: "IEEE", label: "Research paper published (2026)" },
-//   { value: "83.18%", label: "Accuracy on 20,518 Marathi headlines" },
-//   { value: "2", label: "Internships completed" },
-//   { value: "2", label: "Projects built and documented" },
-// ];
 
 export const stats = [
   { big: "83.18%", label: "sentiment accuracy on 20,518 Marathi news headlines" },
